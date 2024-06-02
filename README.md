@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Unipix
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+An exclusive NFT collection enabled by ERC404, offering 10,000 parcels of land from advanced agricultural sites. Each NFT represents a unique piece of these innovative locations, each distinguished by its own technology and vision for sustainable agriculture.
